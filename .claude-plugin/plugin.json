@@ -1,0 +1,21 @@
+{
+  "name": "latitude",
+  "description": "Open-source AI agent monitoring platform. Full observability into what's failing in production. Discover underlying issues, get alerts when something breaks and verify your fix worked.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Latitude",
+    "email": "hello@latitude.so",
+    "url": "https://latitude.so"
+  },
+  "homepage": "https://latitude.so",
+  "repository": "https://github.com/latitude-dev/mcps",
+  "license": "MIT",
+  "keywords": [
+    "latitude",
+    "mcp",
+    "observability",
+    "ai-agents",
+    "monitoring",
+    "tracing"
+  ]
+}
